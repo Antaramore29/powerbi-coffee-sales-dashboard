@@ -9,7 +9,7 @@ This project showcases an interactive Power BI dashboard built to analyze sales 
 - Compare product-level sales performance
 
 ## Dashboard Preview
-![Power BI Coffee Sales Dashboard](screenshots/dashboard_preview.png)
+![Power BI Coffee Sales Dashboard](dashboard_preview.png)
 
 ## Key Metrics
 - Total Sales
